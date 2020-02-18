@@ -1,0 +1,17 @@
+body{
+    background-color: #ececec;
+}
+.nav-wrapper {
+    background-color: #67ade1;
+}
+#logo{
+    font-family: monospace;
+    margin-left: 1%;
+}
+.lisDoNav{
+    padding-right: 9%;
+}
+#imagemPagar {
+    width: 250px;
+    height: 600px;
+}
